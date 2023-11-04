@@ -70,7 +70,7 @@ class _CounterPageState extends State<CounterPage> {
                 ),
               ),
             ),
-            Row(
+            Row( 
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 FloatingActionButton(
