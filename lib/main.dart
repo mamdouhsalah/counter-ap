@@ -71,7 +71,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     radius: 50,
                     child: Text(
                       count.toString(),
-                      style: const TextStyle(fontSize: 55),
+                      style: const TextStyle(fontSize: 48),
                     ),
                   ),
                   Row(
