@@ -77,7 +77,7 @@ class _CounterPageState extends State<CounterPage> {
                   onPressed: increment,
                   child: const Icon(Icons.add), 
                 ),
-                const SizedBox(width: 16),
+                const SizedBox(width: 16), 
                 FloatingActionButton(
                   onPressed: decrement,
                   child: const Icon(Icons.remove),
